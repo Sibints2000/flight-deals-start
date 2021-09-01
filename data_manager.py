@@ -1,6 +1,6 @@
 import requests
 
-SHETY_PRICES_ENDPOINT = "https://api.sheety.co/51506b64db4b68cc3ba2ce7ba0f5e57a/flightDeals/prices"
+SHEETY_PRICES_ENDPOINT = "https://api.sheety.co/51506b64db4b68cc3ba2ce7ba0f5e57a/flightDeals/prices"
 
 
 class DataManager:
