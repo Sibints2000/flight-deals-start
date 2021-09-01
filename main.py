@@ -2,6 +2,8 @@
 # program requirements.
 
 import requests
-
+from pprint import pprint
 
 sheet_endpoint = "https://api.sheety.co/51506b64db4b68cc3ba2ce7ba0f5e57a/flightDeals/prices"
+
+
